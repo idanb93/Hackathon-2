@@ -1,5 +1,7 @@
 # Synopsis
 
+Developers Institute 2nd Hackathon.
+
 In this project I built a full-stack application - Management System for IT Administrators that shows their company's cloud instances.
 I used JavaScript, Node.js, Express.js with a middleware, PostgreSQL on Heroku and JWT to handle users sessions.
 
